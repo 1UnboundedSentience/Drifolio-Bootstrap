@@ -119,6 +119,10 @@ you can use the generic selector below, but it's slower:
 .icon-social-dribbble:before {
 	content: "\e00d";
 }
+.icon-social-github:before {
+	content: "\e60c";
+}
+
 .icon-shield:before {
 	content: "\e00e";
 }
